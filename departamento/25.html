@@ -93,10 +93,9 @@
 
 
 
-    <main id="main">
+   
 
-        <section style="background-color: white!important;">
-            <div class="container-fluid m-auto">
+            <div class="container-fluid m-auto row align-items-center justify-content-sm-center min-vh-100">
                 <section>
                     <div class="pt-3 text-center">
                           <h1>Departameto de Esteli</h1>
@@ -104,7 +103,6 @@
         
                 </section>
                 <br>
-                <form>
                     <div class="row-mapa">
 
                         <div class=" col-md-12 text-center">
@@ -112,12 +110,10 @@
                             <div class="col-md-12 col-xs-12 Centrarlienzo viewMunicipios">
 
                                 <!-- ======= Mapas de Municipios ======= -->
-                                <div id="25" name="panelMunicipiosEsteli" 
-                                     style="display:block;" >
-                                    <svg class="box" id="MapaMunicipiosEsteli" version="1.1" width="100%" height="100%"
+                                    <svg class="box"  version="1.1" width="100%" height="100%"
                                          max-width="900px" viewBox="0,0,1920,1920">
-                                        <a href="#">
-                                            <g id="Esteli">
+                                        
+                                            <g id="Estelibtn">
                                                 <path class="poly mapadiv" fill="#C1197A" d="M1207.94,1376.44c-4.15,0.68-7.89-1.39-11.73-4.11c-22.03-15.6-22.08-15.53-48.57-10.2
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 c-3.67,0.74-7.41,1.19-11,2.2c-11.67,3.3-22.81,2.08-32.93-4.5c-11.82-7.69-23.67-5.4-35.81-1.4c-2.84,0.94-5.32,2.03-5.13,5.43
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 c0.37,6.82-4.69,10.59-9.37,12.16c-14.04,4.73-28.69,8.27-42.19-1.59c-4.44-3.24-7.89-2.95-12.19-0.46
@@ -161,9 +157,9 @@
                                                     <circle class="CabeceraDepartamentalWhite" cx="1184.94" cy="1066.67"
                                                             r="13.5"></circle>
                                                 </g>
-                                        </a>
-                                        <a href="#">
-                                            <g id="San_Juan_De_Limay">
+                                            </g>
+                                        
+                                            <g id="San_Juan_De_Limaybtn">
                                                 <path class="poly mapadiv" fill="#C94C5C" d="M216.91,1072.5c-1.84-12.05-3.73-21.86-4.74-31.77c-1.43-13.92-4.92-27.02-13.31-38.4
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             c-8.32-11.28-7.35-24.56-8.5-37.39c-0.12-1.29,0.69-3.05,1.66-3.99c4.59-4.47,9.44-8.71,4.01-15.68
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             c6.05-7.32-0.73-11.9-3.09-17.83c-1.24-3.12,1.02-8.05,3.58-11.72c3.44-4.92,8.58-8.44,11.87-12.91
@@ -204,7 +200,7 @@
                                                 </g>
                                             </g>
 
-                                        </a>
+                                        
                                         <a href="#">
                                             <g id="Condega">
                                                 <path class="poly mapadiv" fill="#DC911B" d="M929.61,360.02c7.42,5.32,13.29,4.89,18.76-1.1c3.25-3.56,7.12-6.23,12.4-5.91
@@ -351,26 +347,67 @@
 
                                         </a>
                                     </svg>
+                               <!-- ======= Modales ======= -->
+                                <div class="modal fade" id="modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-scrollable modal-dialog-centered">
+                                    <div class="modal-content">
+                                        
+                                        
+                                            <nav class="navbar  navbar-expand-lg sticky-top ">
+                                                <div class="container">
+                                                <a class="navbar-brand" href="index.html">
+                                                    <img src="../images/Logotipo.png" alt="Logo Mefcca">
+                                                </a>
+                                
+                                                </div>
+                                            </nav>
+                                            
+                                        
+                                        <div class="modal-body">
+                                        
+
+                                        <P>
+                                            Ingresar informacion de los Protagonistas
+                                            <br>
+                                            <br>
+                                            <br>
+                                            <br>
+                                            <br>
+                                            <br>
+                                            <br>
+                                            <br>
+                                        </P>
+
+
+                                        </div>
+                                        <footer class="p-2 mb-3">
+                                            <div class="container text-end ">
+                                                <button class="btn btn-danger" data-bs-dismiss="modal">Cerrar</button>
+                                            </div>
+                                        </footer>
+                                    </div>
+                                    </div>
                                 </div>
-
-
                             </div>
+
+
+                            
                         </div>
-                        <br>
-                        <br>
+                    </div>
+            </div>
+                    
+    <footer class="bg-info p-2 ">
+        <div class="container text-center">
+                    
+                    
+                    
+        <small class="text-black"><b>&copy;</b> 2023 MEFCCA.</small>
+        </div>
+    </footer>
 
-                      <!-- ======= Banners de Municipios ======= -->
-
-                        <!-- ESTADÍSTICAS-->
-                       
-
-        <!-- ESTADÍSTICAS-->
 
 
-      <!-- ======= Banners de Municipios ======= -->
 
-
-</main>
 
 
 
@@ -379,12 +416,13 @@
 integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
 crossorigin="anonymous">
 </script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="../js/modal.js"></script>
 
 
 
 
 </body>
 
-<!-- Mirrored from nicaragua.edu.ni/departamento/93 by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 22 Mar 2023 15:25:59 GMT -->
 </html>
 
