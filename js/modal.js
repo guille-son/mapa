@@ -186,6 +186,256 @@ $(document).ready(function(){
     });
 });
 
+$(document).ready(function(){
+    $("#Condegabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#La_Trinidadbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Pueblo_Nuevobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#San_Nicolasbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+
+// Chinandega
+
+$(document).ready(function(){
+    $("#El_Viejobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Chinandegabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#El_Realejobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Corintobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Chichigalpabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Posoltegabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Puerto_Morazanbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Somotillobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Villanuevabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#San_Pedro_del_Nortebtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Cinco_Pinosbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Santo_Tomas_del_Nortebtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#San_Francisco_del_Nortebtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+// Leon 
+
+$(document).ready(function(){
+    $("#MunLa_Paz_Centrobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#MunSanta_Rosa_del_Peñonbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#MunEl_Jicaralbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#MunAchuapabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#MunNagarotebtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#MunTelicabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#MunLarreynagabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#MunEl_Saucebtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#MunLeonbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#MunQuezalguaquebtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+// Matagalpa
+
+$(document).ready(function(){
+    $("#Matiguasbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Ciudad_Dariobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Rio_Blancobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Tuma_La_Daliabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Matagalpabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Rancho_Grandebtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#San_Ramonbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Muy_Muybtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#San_Isidrobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Sebacobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Terrabonabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Esquipulasbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#San_Dionisiobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+
+
+
 
 
 
