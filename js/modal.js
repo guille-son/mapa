@@ -433,10 +433,527 @@ $(document).ready(function(){
     });
 });
 
+// BOACO
+
+$(document).ready(function(){
+    $("#Boacobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Santa_Luciabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#San_Jose_de_los_Rematesbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#San_Lorenzobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Camoapabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Teustepebtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+// MANAGUA
+$(document).ready(function(){
+    $("#Villa_el_Carmenbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Managuabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Ticuantepebtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#El_Crucerobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#San_Rafael_del_Surbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Tipitapabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
 
 
+$(document).ready(function(){
+    $("#Matearebtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
 
+$(document).ready(function(){
+    $("#Ciudad_Sandinobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
 
+$(document).ready(function(){
+    $("#San_Francisco_Librebtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
 
+// Masaya
+$(document).ready(function(){
+    $("#Nindiribtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
 
+$(document).ready(function(){
+    $("#Masayabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Tismabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#La_Concepcionbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Masatepebtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Niquinohomobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Nandasmobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Catarinabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#San_Juan_de_Orientebtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Laguna_de_Masayabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+// Chontales
+
+$(document).ready(function(){
+    $("#La_Libertadbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#San_Pedro_de_Lovagobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Villa_Sandinobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#El_Coralbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Comalapabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#San_Francisco_de_Cuapabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Santo_Tomasbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Acoyapabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Santo_Domingobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Juigalpabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+// Granada
+$(document).ready(function(){
+    $("#Nandaimebtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Diriabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Diriomobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Granadabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Isla_Zapaterabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+// Carazo
+
+$(document).ready(function(){
+    $("#La_Conquistabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#El_Rosariobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#La_Paz_de_Carazobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#San_Marcosbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Santa_Teresabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Diriambabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Jinotepebtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Doloresbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+// Rivas
+$(document).ready(function(){
+    $("#Tolabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#San_Juan_Del_Surbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Rivasbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Belenbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Cardenasbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Altagraciabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Potosibtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Moyogalpabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#San_Jorgebtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Buenos_Airesbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+// Rio San Juan
+$(document).ready(function(){
+    $("#San_Juan_De_Nicaraguabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#El_Castillobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#San_Miguelitobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#El_Almendrobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#San_Carlosbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Morritobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+// Region Costa Caribe norte
+$(document).ready(function(){
+    $("#Waspanbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#PrinzaPolkabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Puerto_Cabezasbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Siunabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Rositabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Bonanzabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Mulukukubtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Waslalabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+// Region Costa Caribe Sur
+$(document).ready(function(){
+    $("#Bluefieldsbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#El_Ramabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#La_Cruz_De_Rio_Grandebtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#El_Tortugerobtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Nueva_guineabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Paiwasbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Desembocadura_De_Rio_Grandebtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Laguna_De_Perlasbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Muelle_De_Los_Bueyesbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Kukrahillbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#El_Ayotebtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Corn_Islandbtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
+
+$(document).ready(function(){
+    $("#Islabtn").click(function(){
+        $("#modal").modal('show');
+    });
+});
 
