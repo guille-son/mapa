@@ -1,0 +1,10 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+#myMap {
+    height: 85vh;
+    width: 95%;
+    margin: 0 auto;
+}
