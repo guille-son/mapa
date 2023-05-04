@@ -862,7 +862,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#Bonanzabtn").click(function(){
-        $("#modal").modal('show');
+        $("#bonanza").modal('show');
     });
 });
 

@@ -1,5 +1,5 @@
 var app={};
-var micallback= datos =>{
+var miCallback= datos =>{
     console.log(datos);
     app.prueba2=datos;
     var html = ""
