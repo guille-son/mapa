@@ -16,6 +16,9 @@
 }
 
 /* Reset Styles */
+.distancia{
+    margin-top: -.7em !important;
+}
 .letra{
     font-size: 14px !important; 
 }
