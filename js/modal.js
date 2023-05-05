@@ -120,55 +120,55 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#Telpanecabtn").click(function(){
-        $("#modal").modal('show');
+        $("#TELPANECA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Juan_de_Río_Cocobtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANJUANRIOCOCO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Totogalpabtn").click(function(){
-        $("#modal").modal('show');
+        $("#TOTOGALPA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Palacaguinabtn").click(function(){
-        $("#modal").modal('show');
+        $("#PALACAGUINA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Yalaguinabtn").click(function(){
-        $("#modal").modal('show');
+        $("#YALAGUINA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_José_de_Cusmapabtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANJOSEDECUSMAPA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Somotobtn").click(function(){
-        $("#modal").modal('show');
+        $("#SOMOTO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Lucasbtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANLUCAS").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Las_Sabanasbtn").click(function(){
-        $("#modal").modal('show');
+        $("#LASSABANAS").modal('show');
     });
 });
 
