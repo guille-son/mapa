@@ -1,70 +1,70 @@
 $(document).ready(function(){
     $("#jalapabtn").click(function(){
-        $("#modal").modal('show');
+        $("#JALAPA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#murrabtn").click(function(){
-        $("#modal").modal('show');
+        $("#MURRA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#eljicarobtn").click(function(){
-        $("#modal").modal('show');
+        $("#ELJICARO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Wiwili_De_Nueva_Segoviabtn").click(function(){
-        $("#modal").modal('show');
+        $("#WIWILIDENUEVASEGOVIA").modal('show');
     });
 });
 $(document).ready(function(){
     $("#Quilalibtn").click(function(){
-        $("#modal").modal('show');
+        $("#QUILALI").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Macuelizobtn").click(function(){
-        $("#modal").modal('show');
+        $("#MACUELIZO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Fernandobtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANFERNANDO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Mozontebtn").click(function(){
-        $("#modal").modal('show');
+        $("#MOZONTE").modal('show');
     });
 });
 $(document).ready(function(){
     $("#Santa_Mariabtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANTAMARIA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Ciudad_Antiguabtn").click(function(){
-        $("#modal").modal('show');
+        $("#CIUDADANTIGUA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Dipiltobtn").click(function(){
-        $("#modal").modal('show');
+        $("#DIPILTO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Ocotalbtn").click(function(){
-        $("#modal").modal('show');
+        $("#OCOTAL").modal('show');
     });
 });
 // Jinotega
@@ -671,7 +671,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#Granadabtn").click(function(){
-        $("#modal").modal('show');
+        $("#GRANADA").modal('show');
     });
 });
 
@@ -734,61 +734,61 @@ $(document).ready(function(){
 // Rivas
 $(document).ready(function(){
     $("#Tolabtn").click(function(){
-        $("#modal").modal('show');
+        $("#TOLA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Juan_Del_Surbtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANJUANDELSUR").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Rivasbtn").click(function(){
-        $("#modal").modal('show');
+        $("#RIVAS").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Belenbtn").click(function(){
-        $("#modal").modal('show');
+        $("#BELEN").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Cardenasbtn").click(function(){
-        $("#modal").modal('show');
+        $("#CARDENAS").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Altagraciabtn").click(function(){
-        $("#modal").modal('show');
+        $("#ALTAGRACIA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Potosibtn").click(function(){
-        $("#modal").modal('show');
+        $("#POTOSI").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Moyogalpabtn").click(function(){
-        $("#modal").modal('show');
+        $("#MOYOGALPA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Jorgebtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANJORGE").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Buenos_Airesbtn").click(function(){
-        $("#modal").modal('show');
+        $("#BUENOSAIRES").modal('show');
     });
 });
 
