@@ -70,49 +70,49 @@ $(document).ready(function(){
 // Jinotega
 $(document).ready(function(){
     $("#San_Jose_De_Bocaybtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANJOSEBOC").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Wiwilli_De_Jinotegabtn").click(function(){
-        $("#modal").modal('show');
+        $("#WIWILIJINO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#El_Cuabtn").click(function(){
-        $("#modal").modal('show');
+        $("#ELCUA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Santa_Maria_De_Pantasmabtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANTAMARIAPAN").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Jinotegabtn").click(function(){
-        $("#modal").modal('show');
+        $("#JINOTEGA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Sebastian_De_Yalibtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANSEBASTIANYALI").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Rafael_Del_Nortebtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANRAFANORTE").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#La_Concordiabtn").click(function(){
-        $("#modal").modal('show');
+        $("#CONCORDIA1").modal('show');
     });
 });
 
@@ -120,55 +120,55 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#Telpanecabtn").click(function(){
-        $("#modal").modal('show');
+        $("#TELPANECA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Juan_de_Río_Cocobtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANJUANRIOCOCO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Totogalpabtn").click(function(){
-        $("#modal").modal('show');
+        $("#TOTOGALPA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Palacaguinabtn").click(function(){
-        $("#modal").modal('show');
+        $("#PALACAGUINA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Yalaguinabtn").click(function(){
-        $("#modal").modal('show');
+        $("#YALAGUINA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_José_de_Cusmapabtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANJOSEDECUSMAPA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Somotobtn").click(function(){
-        $("#modal").modal('show');
+        $("#SOMOTO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Lucasbtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANLUCAS").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Las_Sabanasbtn").click(function(){
-        $("#modal").modal('show');
+        $("#LASSABANAS").modal('show');
     });
 });
 
@@ -295,61 +295,61 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#MunLa_Paz_Centrobtn").click(function(){
-        $("#modal").modal('show');
+        $("#LAPAZCENTRO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#MunSanta_Rosa_del_Peñonbtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANTAROSAPE").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#MunEl_Jicaralbtn").click(function(){
-        $("#modal").modal('show');
+        $("#ELJICARAL").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#MunAchuapabtn").click(function(){
-        $("#modal").modal('show');
+        $("#ACHUAPA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#MunNagarotebtn").click(function(){
-        $("#modal").modal('show');
+        $("#NAGAROTE").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#MunTelicabtn").click(function(){
-        $("#modal").modal('show');
+        $("#TELICA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#MunLarreynagabtn").click(function(){
-        $("#modal").modal('show');
+        $("#LARREYNAGA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#MunEl_Saucebtn").click(function(){
-        $("#modal").modal('show');
+        $("#SAUCE").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#MunLeonbtn").click(function(){
-        $("#modal").modal('show');
+        $("#LEON").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#MunQuezalguaquebtn").click(function(){
-        $("#modal").modal('show');
+        $("#QUETZALGUAQUE").modal('show');
     });
 });
 
