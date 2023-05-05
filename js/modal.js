@@ -70,49 +70,49 @@ $(document).ready(function(){
 // Jinotega
 $(document).ready(function(){
     $("#San_Jose_De_Bocaybtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANJOSEBOC").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Wiwilli_De_Jinotegabtn").click(function(){
-        $("#modal").modal('show');
+        $("#WIWILIJINO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#El_Cuabtn").click(function(){
-        $("#modal").modal('show');
+        $("#ELCUA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Santa_Maria_De_Pantasmabtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANTAMARIAPAN").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Jinotegabtn").click(function(){
-        $("#modal").modal('show');
+        $("#JINOTEGA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Sebastian_De_Yalibtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANSEBASTIANYALI").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Rafael_Del_Nortebtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANRAFANORTE").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#La_Concordiabtn").click(function(){
-        $("#modal").modal('show');
+        $("#CONCORDIA1").modal('show');
     });
 });
 
