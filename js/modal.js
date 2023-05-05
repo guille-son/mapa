@@ -188,7 +188,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#Condegabtn").click(function(){
-        $("#CONDEGA").modal('show');
+        $("#CONDEGA2").modal('show');
     });
 });
 
@@ -653,19 +653,19 @@ $(document).ready(function(){
 // Granada
 $(document).ready(function(){
     $("#Nandaimebtn").click(function(){
-        $("#modal").modal('show');
+        $("#NANDAIME").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Diriabtn").click(function(){
-        $("#modal").modal('show');
+        $("#DIRIA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Diriomobtn").click(function(){
-        $("#modal").modal('show');
+        $("#DIRIOMO").modal('show');
     });
 });
 
@@ -675,11 +675,7 @@ $(document).ready(function(){
     });
 });
 
-$(document).ready(function(){
-    $("#Isla_Zapaterabtn").click(function(){
-        $("#modal").modal('show');
-    });
-});
+
 
 // Carazo
 
