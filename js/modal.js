@@ -530,55 +530,55 @@ $(document).ready(function(){
 // Masaya
 $(document).ready(function(){
     $("#Nindiribtn").click(function(){
-        $("#modal").modal('show');
+        $("#NINDIRI").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Masayabtn").click(function(){
-        $("#modal").modal('show');
+        $("#MASAYA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Tismabtn").click(function(){
-        $("#modal").modal('show');
+        $("#TISMA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#La_Concepcionbtn").click(function(){
-        $("#modal").modal('show');
+        $("#LACONCEPCION").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Masatepebtn").click(function(){
-        $("#modal").modal('show');
+        $("#MASATEPE").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Niquinohomobtn").click(function(){
-        $("#modal").modal('show');
+        $("#NIQUINOHOMO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Nandasmobtn").click(function(){
-        $("#modal").modal('show');
+        $("#NANDASMO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Catarinabtn").click(function(){
-        $("#modal").modal('show');
+        $("#CATARINA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Juan_de_Orientebtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANJUANDEORIENTE").modal('show');
     });
 });
 
