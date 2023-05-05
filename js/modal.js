@@ -182,13 +182,13 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#San_Juan_De_Limaybtn").click(function(){
-        $("#SANJUANDELIMAY").modal('show');
+        $("#SANJUANDELIMAY1").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Condegabtn").click(function(){
-        $("#CONDEGA2").modal('show');
+        $("#CONDEGA").modal('show');
     });
 });
 
