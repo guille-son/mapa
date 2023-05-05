@@ -215,79 +215,79 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#El_Viejobtn").click(function(){
-        $("#modal").modal('show');
+        $("#ELVIEJO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Chinandegabtn").click(function(){
-        $("#modal").modal('show');
+        $("#Chinandega").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#El_Realejobtn").click(function(){
-        $("#modal").modal('show');
+        $("#ELREALEJO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Corintobtn").click(function(){
-        $("#modal").modal('show');
+        $("#CORINTO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Chichigalpabtn").click(function(){
-        $("#modal").modal('show');
+        $("#CHICHIGALPA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Posoltegabtn").click(function(){
-        $("#modal").modal('show');
+        $("#POSOLTEGA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Puerto_Morazanbtn").click(function(){
-        $("#modal").modal('show');
+        $("#PUERTOMORAZAN").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Somotillobtn").click(function(){
-        $("#modal").modal('show');
+        $("#Somotillo").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Villanuevabtn").click(function(){
-        $("#modal").modal('show');
+        $("#Villanueva").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Pedro_del_Nortebtn").click(function(){
-        $("#modal").modal('show');
+        $("#SanPedroDelNorte").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Cinco_Pinosbtn").click(function(){
-        $("#modal").modal('show');
+        $("#CincoPinos").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Santo_Tomas_del_Nortebtn").click(function(){
-        $("#modal").modal('show');
+        $("#SantoTomasNorte").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Francisco_del_Nortebtn").click(function(){
-        $("#modal").modal('show');
+        $("#Sanfranciscodelnorte").modal('show');
     });
 });
 
@@ -461,7 +461,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#Camoapabtn").click(function(){
-        $("#modal").modal('show');
+        $("#CAMOAPA").modal('show');
     });
 });
 
@@ -832,128 +832,128 @@ $(document).ready(function(){
 // Region Costa Caribe norte
 $(document).ready(function(){
     $("#Waspanbtn").click(function(){
-        $("#modal").modal('show');
+        $("#Waspan").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#PrinzaPolkabtn").click(function(){
-        $("#modal").modal('show');
+        $("#Prinzapolka").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Puerto_Cabezasbtn").click(function(){
-        $("#modal").modal('show');
+        $("#PuertoCabeza").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Siunabtn").click(function(){
-        $("#modal").modal('show');
+        $("#Siuna").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Rositabtn").click(function(){
-        $("#modal").modal('show');
+        $("#Rosita").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Bonanzabtn").click(function(){
-        $("#bonanza").modal('show');
+        $("#Bonanza").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Mulukukubtn").click(function(){
-        $("#modal").modal('show');
+        $("#Mulukuku").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Waslalabtn").click(function(){
-        $("#modal").modal('show');
+        $("#Waslala").modal('show');
     });
 });
 
 // Region Costa Caribe Sur
 $(document).ready(function(){
     $("#Bluefieldsbtn").click(function(){
-        $("#modal").modal('show');
+        $("#Blufields").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#El_Ramabtn").click(function(){
-        $("#modal").modal('show');
+        $("#ElRama").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#La_Cruz_De_Rio_Grandebtn").click(function(){
-        $("#modal").modal('show');
+        $("#CruzRioGrande").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#El_Tortugerobtn").click(function(){
-        $("#modal").modal('show');
+        $("#Tortuguero").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Nueva_guineabtn").click(function(){
-        $("#modal").modal('show');
+        $("#NuevaGuinea").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Paiwasbtn").click(function(){
-        $("#modal").modal('show');
+        $("#Paiwas").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Desembocadura_De_Rio_Grandebtn").click(function(){
-        $("#modal").modal('show');
+        $("#RioGrande").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Laguna_De_Perlasbtn").click(function(){
-        $("#modal").modal('show');
+        $("#LagunadePerlas").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Muelle_De_Los_Bueyesbtn").click(function(){
-        $("#modal").modal('show');
+        $("#MuelleBueyes").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Kukrahillbtn").click(function(){
-        $("#modal").modal('show');
+        $("#Kukrahill").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#El_Ayotebtn").click(function(){
-        $("#modal").modal('show');
+        $("#ElAyote").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Corn_Islandbtn").click(function(){
-        $("#modal").modal('show');
+        $("#CornIsland").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Islabtn").click(function(){
-        $("#modal").modal('show');
+        $("#Isla").modal('show');
     });
 });
 
