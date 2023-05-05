@@ -176,37 +176,37 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#Estelibtn").click(function(){
-        $("#modal").modal('show');
+        $("#ESTELI").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Juan_De_Limaybtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANJUANDELIMAY").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Condegabtn").click(function(){
-        $("#modal").modal('show');
+        $("#CONDEGA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#La_Trinidadbtn").click(function(){
-        $("#modal").modal('show');
+        $("#LATRINIDAD").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Pueblo_Nuevobtn").click(function(){
-        $("#modal").modal('show');
+        $("#PUEBLONUEVO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Nicolasbtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANNICOLAS").modal('show');
     });
 });
 
@@ -437,25 +437,25 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#Boacobtn").click(function(){
-        $("#modal").modal('show');
+        $("#BOACO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Santa_Luciabtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANTALUCIA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Jose_de_los_Rematesbtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANJOSEDELOSREMATES").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Lorenzobtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANLORENZO").modal('show');
     });
 });
 
@@ -467,7 +467,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#Teustepebtn").click(function(){
-        $("#modal").modal('show');
+        $("#TEUSTEPE").modal('show');
     });
 });
 
@@ -592,61 +592,61 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#La_Libertadbtn").click(function(){
-        $("#modal").modal('show');
+        $("#LALIBERTAD").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Pedro_de_Lovagobtn").click(function(){
-        $("#modal").modal('show');
+        $("#PEDROLOVAGO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Villa_Sandinobtn").click(function(){
-        $("#modal").modal('show');
+        $("#VILLASANDINO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#El_Coralbtn").click(function(){
-        $("#modal").modal('show');
+        $("#ELCORAL").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Comalapabtn").click(function(){
-        $("#modal").modal('show');
+        $("#COMALAPA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Francisco_de_Cuapabtn").click(function(){
-        $("#modal").modal('show');
+        $("#FRANCISCOCOAPA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Santo_Tomasbtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANTOTOMAS").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Acoyapabtn").click(function(){
-        $("#modal").modal('show');
+        $("#ACOYAPA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Santo_Domingobtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANTODOMINGO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Juigalpabtn").click(function(){
-        $("#modal").modal('show');
+        $("#JUIGALPA").modal('show');
     });
 });
 
@@ -685,49 +685,49 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#La_Conquistabtn").click(function(){
-        $("#modal").modal('show');
+        $("#LACONQUISTA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#El_Rosariobtn").click(function(){
-        $("#modal").modal('show');
+        $("#ELROSARIO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#La_Paz_de_Carazobtn").click(function(){
-        $("#modal").modal('show');
+        $("#LAPAZDECARAZO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Marcosbtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANMARCOS").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Santa_Teresabtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANTATERESA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Diriambabtn").click(function(){
-        $("#modal").modal('show');
+        $("#DIRIAMBA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Jinotepebtn").click(function(){
-        $("#modal").modal('show');
+        $("#JINOTEPE").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Doloresbtn").click(function(){
-        $("#modal").modal('show');
+        $("#DOLORES").modal('show');
     });
 });
 
