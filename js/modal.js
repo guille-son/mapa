@@ -295,61 +295,61 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#MunLa_Paz_Centrobtn").click(function(){
-        $("#modal").modal('show');
+        $("#LAPAZCENTRO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#MunSanta_Rosa_del_Peñonbtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANTAROSAPE").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#MunEl_Jicaralbtn").click(function(){
-        $("#modal").modal('show');
+        $("#ELJICARAL").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#MunAchuapabtn").click(function(){
-        $("#modal").modal('show');
+        $("#ACHUAPA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#MunNagarotebtn").click(function(){
-        $("#modal").modal('show');
+        $("#NAGAROTE").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#MunTelicabtn").click(function(){
-        $("#modal").modal('show');
+        $("#TELICA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#MunLarreynagabtn").click(function(){
-        $("#modal").modal('show');
+        $("#LARREYNAGA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#MunEl_Saucebtn").click(function(){
-        $("#modal").modal('show');
+        $("#SAUCE").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#MunLeonbtn").click(function(){
-        $("#modal").modal('show');
+        $("#LEON").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#MunQuezalguaquebtn").click(function(){
-        $("#modal").modal('show');
+        $("#QUETZALGUAQUE").modal('show');
     });
 });
 
