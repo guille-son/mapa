@@ -474,56 +474,56 @@ $(document).ready(function(){
 // MANAGUA
 $(document).ready(function(){
     $("#Villa_el_Carmenbtn").click(function(){
-        $("#modal").modal('show');
+        $("#VILLAELCARMEN").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Managuabtn").click(function(){
-        $("#modal").modal('show');
+        $("#MANAGUA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Ticuantepebtn").click(function(){
-        $("#modal").modal('show');
+        $("#TICUANTEPE").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#El_Crucerobtn").click(function(){
-        $("#modal").modal('show');
+        $("#ELCRUCERO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Rafael_del_Surbtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANRAFAELDELSUR").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Tipitapabtn").click(function(){
-        $("#modal").modal('show');
+        $("#TIPITAPA").modal('show');
     });
 });
 
 
 $(document).ready(function(){
     $("#Matearebtn").click(function(){
-        $("#modal").modal('show');
+        $("#MATEARE").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Ciudad_Sandinobtn").click(function(){
-        $("#modal").modal('show');
+        $("#CIUDADSANDINO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Francisco_Librebtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANFRANCISCOLIBRE").modal('show');
     });
 });
 
