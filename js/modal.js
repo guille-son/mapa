@@ -791,37 +791,37 @@ $(document).ready(function(){
 // Rio San Juan
 $(document).ready(function(){
     $("#San_Juan_De_Nicaraguabtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANJUANDENICARAGUA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#El_Castillobtn").click(function(){
-        $("#modal").modal('show');
+        $("#ELCASTILLO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Miguelitobtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANMIGUELITO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#El_Almendrobtn").click(function(){
-        $("#modal").modal('show');
+        $("#ELALMENDRO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Carlosbtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANCARLOS").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Morritobtn").click(function(){
-        $("#modal").modal('show');
+        $("#MORRITO").modal('show');
     });
 });
 
