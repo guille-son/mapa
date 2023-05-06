@@ -16,6 +16,9 @@
 }
 
 /* Reset Styles */
+.margen{
+    margin-top: -.7em !important;
+}
 .distancia{
     margin-top: -.7em !important;
 }
@@ -59,7 +62,7 @@ a:hover{
 }
 .navbar-brand img{
     width: auto;
-    height: 2.5rem ;
+    height: 4.5rem ;
 
 }
 .nav-item{
