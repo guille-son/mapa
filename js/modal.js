@@ -357,79 +357,79 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#Matiguasbtn").click(function(){
-        $("#modal").modal('show');
+        $("#MATIGUAS").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Ciudad_Dariobtn").click(function(){
-        $("#modal").modal('show');
+        $("#CIUDADDARIO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Rio_Blancobtn").click(function(){
-        $("#modal").modal('show');
+        $("#RIOBLANCO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Tuma_La_Daliabtn").click(function(){
-        $("#modal").modal('show');
+        $("#ELTUMA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Matagalpabtn").click(function(){
-        $("#modal").modal('show');
+        $("#MATAGALPA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Rancho_Grandebtn").click(function(){
-        $("#modal").modal('show');
+        $("#RANCHOGRANDE").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Ramonbtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANRAMON").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Muy_Muybtn").click(function(){
-        $("#modal").modal('show');
+        $("#MUYMUY").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Isidrobtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANISIDRO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Sebacobtn").click(function(){
-        $("#modal").modal('show');
+        $("#SEBACO").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Terrabonabtn").click(function(){
-        $("#modal").modal('show');
+        $("#TERRABONA").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#Esquipulasbtn").click(function(){
-        $("#modal").modal('show');
+        $("#ESQUIPULAS").modal('show');
     });
 });
 
 $(document).ready(function(){
     $("#San_Dionisiobtn").click(function(){
-        $("#modal").modal('show');
+        $("#SANDIONISIO").modal('show');
     });
 });
 
